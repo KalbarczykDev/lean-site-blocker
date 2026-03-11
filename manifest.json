@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Lean Site Blocker",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Block specified Websites",
   "permissions": ["storage", "tabs"],
   "host_permissions": ["<all_urls>"],
