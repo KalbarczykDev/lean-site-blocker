@@ -5,7 +5,7 @@ when users try to visit blocked websites.
 
 ## Screenshot
 
-![LeanSiteBlocker](https://github.com/user-attachments/assets/f73196e5-3eb6-4868-9348-61fd6ce4fc6d)
+![LeanSiteBlocker](screenshots/ss.png)
 
 ## Installation
 
