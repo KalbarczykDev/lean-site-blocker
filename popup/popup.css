@@ -136,6 +136,23 @@ li button:hover {
   background: #1c0a0a;
 }
 
+.twitter-banner {
+  font-size: 11px;
+  color: #52525b;
+  text-align: center;
+  margin-top: 12px;
+}
+
+.twitter-banner a {
+  color: #71717a;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.twitter-banner a:hover {
+  color: #a1a1aa;
+}
+
 .bmc {
   display: block;
   margin-top: 12px;
