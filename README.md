@@ -14,7 +14,7 @@ Install from the Chrome Web Store:
 
 ## Local Development
 
-1. Clone the repository or download the latest release
+1. Clone the repository
 2. Go to `chrome://extensions`
 3. Enable **Developer mode**
 4. Click **”Load unpacked”**
