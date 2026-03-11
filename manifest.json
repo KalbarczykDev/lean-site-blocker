@@ -3,12 +3,16 @@
   "name": "Lean Site Blocker",
   "version": "1.0",
   "description": "Block specified Websites",
-  "permissions": ["storage"],
+  "permissions": ["storage", "tabs"],
   "host_permissions": ["<all_urls>"],
   "background": {
     "service_worker": "background.js"
   },
+  "icons": {
+    "128": "icons/icon.png"
+  },
   "action": {
-    "default_popup": "popup/popup.html"
+    "default_popup": "popup/popup.html",
+    "default_icon": "icons/icon.png"
   }
 }
